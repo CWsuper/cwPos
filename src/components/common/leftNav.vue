@@ -3,7 +3,7 @@
 		<ul>
 			<li>
 				<i class="icon iconfont icon-shouye2"></i>
-				<div>收银</div>
+				<div>收银222</div>
 			</li>
 		    <li>
 		    	<i class="icon iconfont icon-accountfilling"></i>
